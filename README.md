@@ -1,5 +1,5 @@
 # Fitness Tracker Backend API
-API for a Fitness Tracker that I was making on Node JS, not finished at all.
+API for a Fitness Tracker that I was making on Node JS, workout functions are not finished.
 
 Has a somewhat nice structure.
 
